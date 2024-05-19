@@ -1,0 +1,5 @@
+{
+    "interval": 10,
+    "min_energy": 100,
+    "sleep": 200
+}
