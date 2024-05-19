@@ -2,6 +2,10 @@
 
 Auto mine for cubes bot 
 
+<center>
+    <img src="./images/cubetod.png" width="400" height="400">
+</center>
+
 ## English README [HERE](README.md)
 
 # Pendaftaran
