@@ -31,6 +31,14 @@ Klik link dibawah untuk pendaftaran
    python bot.py
    ```
 
+# Penjelasan file config.json
+
+| key        | description                                          |
+| ---------- | ---------------------------------------------------- |
+| interval   | durasi waktu tunggu disetiap request / mine          |
+| min_energy | energi minimum untuk masuk ke mode sleep             |
+| sleep      | durasi mode sleep / waktu tunggu ketika energi habis |
+
 # Bagaimana cara mendapatkan data akun
 Ikuti tutorial video berikut [https://youtu.be/VlUxMQ3xLQM](https://youtu.be/VlUxMQ3xLQM)
 

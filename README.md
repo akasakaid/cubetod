@@ -31,6 +31,14 @@ Click the link below to register
    python bot.py
    ```
 
+# Config.json file explanation
+
+| key        | description                                   |
+| ---------- | --------------------------------------------- |
+| interval   | waiting time duration for each request / mine |
+| min_energy | minimum energy to login sleep mode            |
+| sleep      | timeout duration when energy runs out         |
+
 # How to get account data
 Follow the following video tutorial [https://youtu.be/VlUxMQ3xLQM](https://youtu.be/VlUxMQ3xLQM)
 
